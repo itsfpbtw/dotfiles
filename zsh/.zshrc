@@ -86,7 +86,7 @@ plugins=(
 
 zstyle :omz:plugins:ssh-agent identities felipenimbus itsfpbtw
 
-export ZSH_TMUX_AUTOSTART=true
+export ZSH_TMUX_AUTOSTART=false
 
 source $ZSH/oh-my-zsh.sh
 
