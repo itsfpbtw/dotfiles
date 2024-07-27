@@ -1,1 +1,3 @@
-tmux/plugins/*
+tmux/plugins
+zsh/.zcompdump*
+zsh/ohmyzsh
