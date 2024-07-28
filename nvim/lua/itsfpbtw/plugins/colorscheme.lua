@@ -11,7 +11,6 @@ return {
             markdown = true,
             telescope = {
                 enabled = true,
-                style = 'nvchad',
             },
         },
     },
